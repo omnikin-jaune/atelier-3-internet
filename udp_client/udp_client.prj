@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="udp_client" location="D:/Documents/uni/S4/projet/udp_client" platform="D:/Documents/uni/S4/projet/design_1_wrapper_1/export/design_1_wrapper_1/design_1_wrapper_1.xpfm" platformUID="xilinx:zybo-z7-10::0.0(custom)" systemProject="udp_client_system" sysConfig="design_1_wrapper_1" runtime="cpp" cpu="freertos10_xilinx_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="freertos10_xilinx" mssSignature="d2d0034654ddd6bb3a05582fe8da94d1">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.2107540524">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1990522492" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="freertos_lwip_udp_perf_client" hasBspSettings="true"/>
+</sdkproject:SdkProject>
